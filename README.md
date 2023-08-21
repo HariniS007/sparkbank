@@ -12,3 +12,4 @@ Database contains two Tables- Users Table & Transaction Table
 2. Transaction table records all transfers happened along with their time.  
 
 Flow of the Website: Home Page > View all Users > Select and View one User > Transfer Money > Select reciever > View all Users > View Transfer History.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/523d01a5-cccd-4c00-9ec0-a97f64bce677/deploy-status)](https://app.netlify.com/sites/basicbanksystem-spark/deploys)
